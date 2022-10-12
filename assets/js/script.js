@@ -12,6 +12,7 @@ function scrivi() {
 }
 
 
+
 // secondo esercizio
 
 var nascita = 1994;
@@ -26,19 +27,6 @@ function calcolaEta() {
 
 // terzo esercizio
 
-// var eta1
-// var eta2
-
-// var anno = () => {2022 - }
-
-// anno(30);
-
-// calcolaAnno();
-
-// calcolaAnno() {    
-//     document.getElementById('persona1').innerHTML += `L'anno di nascita di Anna è il ${anno}`;
-// }
-
 calcolaAnno = () => {
     var eta1 = 30;
     var eta2 = 24;
@@ -48,6 +36,7 @@ calcolaAnno = () => {
 }
 
 calcolaAnno();
+
 
 
 // quarto esercizio
